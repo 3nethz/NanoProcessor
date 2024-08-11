@@ -47,7 +47,6 @@ The design has been tested through simulations to verify its correctness. The te
    git clone https://github.com/3nethz/NanoProcessor
 
 2. **Navigate to the Project Directory:**
-3. 
 4. **Run Simulations:**
     Use your preferred VHDL simulator to run the testbenches provided in the testbench/ directory.
 
