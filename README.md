@@ -44,15 +44,14 @@ The design has been tested through simulations to verify its correctness. The te
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/simple-processor-design.git
+   git clone https://github.com/3nethz/NanoProcessor
 
 2. **Navigate to the Project Directory:**
-   ```bash
-   cd simple-processor-design
-3. **Run Simulations:**
+3. 
+4. **Run Simulations:**
     Use your preferred VHDL simulator to run the testbenches provided in the testbench/ directory.
 
-4. **Synthesize the Design:**
+5. **Synthesize the Design:**
     The VHDL files can be synthesized using any compatible FPGA synthesis tool.
 
  ## Contributors
