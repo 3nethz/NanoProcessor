@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab 9.srcs/sources_1/imports/RCA4/FA.vhd" \
+"../../../../Lab 9.srcs/sources_1/imports/RCA4/HA.vhd" \
+"../../../../Lab 9.srcs/sources_1/imports/RCA4/RCA_4.vhd" \
+"../../../../Lab 9.srcs/sim_1/new/TB_ADD_SUM.vhd" \
+
+# Do not sort compile order
+nosort
